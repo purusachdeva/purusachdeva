@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **puru.sachdeva36@gmail.com**
 
+- 🤝  I'm open to collaborating on any **Machine Learning Projects**
+
 <h3 align="left">Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/puru-sachdeva-60a773227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puru-sachdeva-60a773227" height="30" width="40" /></a>
