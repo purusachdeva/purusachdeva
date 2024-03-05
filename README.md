@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **puru.sachdeva36@gmail.com**
 
-- 🤝  I'm open to collaborating on any **Machine Learning Projects**
+- 🤝  I'm open to collaborating on any **Web Development Projects**
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
