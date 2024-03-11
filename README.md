@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Puru Sachdeva</h1>
-<img align="right" width = 400 alt = "coding" src = "https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purusachdeva&label=Profile%20views&color=0e75b6&style=flat" alt="purusachdeva" /> </p>
 
