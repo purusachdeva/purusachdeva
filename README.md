@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/purusachdev.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puru-sachdeva-60a773227) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/___puru__) [![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/puru__)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/purusachdev.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puru-sachdeva-60a773227) [![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/puru__)
 
 
 # 💻 Tech Stack:
