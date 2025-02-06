@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Puru Sachdeva</h1>
 
 ## 💫 About Me:
-🔭 I’m currently working on **[The Odin Project](www.theodinproject.com)**<br><br>🌱 I’m currently learning **ReactJS**<br><br>👯 I’m looking to collaborate on any **Web Development Projects**<br><br>💬 Ask me about **Data Structures, Algorithms**<br><br>📫 Reach me through my **socials** or puru.sachdeva36@gmail.com
+🔭 I’m currently working on **<a href="www.theodinproject.com" target="_blank" rel="noopener noreferrer">The Odin Project</a>**<br><br>🌱 I’m currently learning **ReactJS**<br><br>👯 I’m looking to collaborate on any **Web Development Projects**<br><br>💬 Ask me about **Data Structures, Algorithms**<br><br>📫 Reach me through my **socials** or puru.sachdeva36@gmail.com
 
 
 ## 🌐 Socials:
